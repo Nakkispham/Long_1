@@ -1,0 +1,21 @@
+/* 01. Mọi p có màu xám */
+p {
+    color: gray;
+}
+
+/* 02. intro có màu khác */
+.intro {
+    color: blue;
+    font-weight: bold;
+}
+
+/* 03. #register nổi bật */
+#register {
+    background-color: blue;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
